@@ -1,22 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
-
-
-get_ipython().system(' pip install imblearn')
-get_ipython().system(' pip install cv2')
-get_ipython().system(' pip install torch')
-get_ipython().system(' pip install tensorflow')
-get_ipython().system(' pip install opencv-python')
-get_ipython().system(' pip install keras')
-
-
-# In[5]:
-
-
-get_ipython().system(' pip install face-recognition')
-
 
 # In[ ]:
 
