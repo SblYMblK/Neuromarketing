@@ -2,18 +2,7 @@
 # coding: utf-8
 
 
-# In[ ]:
 
-
-import cv2
-import face_recognition
-import numpy as np
-from keras.models import model_from_json
-from keras.models import load_model
-import random
-import warnings
-warnings.filterwarnings('ignore')
-import os
 # import tensorflow as tf
 
 video_capture = cv2.VideoCapture(0)
